@@ -22,4 +22,6 @@ contribute here is allowed per employers policy.
 
 ## Recipes...
 
+To add a hook recipe, please open a PR against the [repo](sethborden) on Github.
+
 **TODO: add some recipes**
