@@ -1,7 +1,7 @@
 # React Hooks are awesome
-See [this](git@github.com:sethborden/reacthooks.git) talk by the indispensable
-[Sophie Alpert](http://www.twitter.com/sophie_bits) and [Dan
-Abramov](http://www.twitter.com/danabramov) for a complete overview. The *tl;dr*
+See [this](https://www.youtube.com/watch?v=V-QO-KO90iQ) talk by the indispensable
+[Sophie Alpert](http://www.twitter.com/sophiebits) and [Dan
+Abramov](http://www.twitter.com/dan_abramov) for a complete overview. The *tl;dr*
 is that hooks solve a number of annoyances around state management and shared
 state between component.
 
